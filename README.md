@@ -1,11 +1,11 @@
-# FabricWatch  <img src="./images/FabricWatch.jpg" alt="Logo" width="50"/>
+# FabricWatch  <img src="./images/FabricWatch.jpg" alt="Logo" width="80"/>
 
 ## Introduction 
 In today's digital age, businesses generate and manage vast amounts of data daily. This data is crucial for various operations, decision-making processes, and strategic planning. However, managing such extensive data comes with its own set of challenges and responsibilities. One of the key responsibilities is to monitor the activities surrounding this data. 
 
 ## Business Requirement and Challenge
 
-Microsoft Fabric is a SaaS platform that provides comprehensive monitoring and logging capabilities. Organizations can leverage these features to monitor activities within the Fabric platform. For example:
+Every organization needs to capture the queries executed against the data for audit and compliance perspectives. Microsoft Fabric is a SaaS platform that provides comprehensive monitoring and logging capabilities. Organizations can leverage these features to monitor activities within the Fabric platform. For example:
 
 1. [Track user activities](https://learn.microsoft.com/en-us/fabric/admin/track-user-activities)
 2. [Admin Monitoring workspace](https://learn.microsoft.com/en-us/fabric/admin/monitoring-workspace)
