@@ -1,4 +1,4 @@
-# FabricWatch
+# FabricWatch  <img src="./images/FabricWatch.jpg" alt="Logo" width="50"/>
 
 ## Introduction 
 In today's digital age, businesses generate and manage vast amounts of data daily. This data is crucial for various operations, decision-making processes, and strategic planning. However, managing such extensive data comes with its own set of challenges and responsibilities. One of the key responsibilities is to monitor the activities surrounding this data. 
